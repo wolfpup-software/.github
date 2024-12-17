@@ -21,6 +21,7 @@ Aawwooo!
 - [coyote-rs](https://github.com/wolfpup-software/coyote-rs) - create html documents with function components
 - [puckette-rs](https://github.com/wolfpup-software/puckette-rs) - (work in progress) mangle audio signals with interactive graphs
 - [snowprints-rs](https://github.com/wolfpup-software/snowprints-rs) - generate unique and sortable 64bit ids
+- [walk_directory-rs](https://github.com/wolfpup-software/walk_directory-rs) - walk and copy directories
 
 ### Javascript
 
